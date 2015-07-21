@@ -1,0 +1,6 @@
+D:\programming\AnagramTest\AnagramTest\bin\Debug\AnagramTest.exe.config
+D:\programming\AnagramTest\AnagramTest\bin\Debug\AnagramTest.exe
+D:\programming\AnagramTest\AnagramTest\bin\Debug\AnagramTest.pdb
+D:\programming\AnagramTest\AnagramTest\obj\Debug\AnagramTest.csprojResolveAssemblyReference.cache
+D:\programming\AnagramTest\AnagramTest\obj\Debug\AnagramTest.exe
+D:\programming\AnagramTest\AnagramTest\obj\Debug\AnagramTest.pdb
